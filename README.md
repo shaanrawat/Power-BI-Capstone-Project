@@ -16,6 +16,10 @@ SQL was used to transform the raw data into a format compatible with Power BI.
 ## Data Visualization
 Power BI was used to create visually engaging charts, graphs, and interactive dashboards. These visualizations facilitate data visualization and trend analysis, making it easier for stakeholders to derive insights from the data.
 
+## Screenshots
+[Reference 1] 
+
+
 ## Benefits
 - The BI solution provides Axon with an accessible and user-friendly platform for sales data analysis.
 - Data-driven decision-making is now enabled, leading to more informed business strategies.
