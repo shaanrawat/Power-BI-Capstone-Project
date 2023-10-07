@@ -17,7 +17,7 @@ SQL was used to transform the raw data into a format compatible with Power BI.
 Power BI was used to create visually engaging charts, graphs, and interactive dashboards. These visualizations facilitate data visualization and trend analysis, making it easier for stakeholders to derive insights from the data.
 
 ## Screenshots
- https://www.slideshare.net/ShaanRawat/capstone-power-bi-pdfpdf
+ ![Dashboard Screenshot ] https://www.slideshare.net/ShaanRawat/capstone-power-bi-pdfpdf
 
 ## Benefits
 - The BI solution provides Axon with an accessible and user-friendly platform for sales data analysis.
